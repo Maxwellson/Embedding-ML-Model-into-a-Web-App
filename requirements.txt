@@ -1,5 +1,12 @@
+pytest
 fastapi[all]
 pandas
+numpy
 black
+matplotlib
+scipy
 scikit-learn
 tabulate
+sklearn
+seaborn
+imbalanced-learn
