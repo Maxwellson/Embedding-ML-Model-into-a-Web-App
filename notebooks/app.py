@@ -90,4 +90,4 @@ async def prediction(input:model_input):
 
 # Launch the app
 if __name__ == "__main__":
- uvicorn.run("API_app:app",host = '127.0.0.1', port = 8092)
+ uvicorn.run("app:app",host = '127.0.0.1', port = 8092)
