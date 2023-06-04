@@ -7,6 +7,5 @@ matplotlib
 scipy
 scikit-learn
 tabulate
-sklearn
 seaborn
 imbalanced-learn
