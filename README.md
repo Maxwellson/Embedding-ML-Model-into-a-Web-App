@@ -1,5 +1,5 @@
 # Embedding-ML-Model-into-a-Web-App
-!['image'](https://www.bing.com/images/search?view=detailV2&ccid=sNQ%2bJuRy&id=E20302212CAD7FA53ED15FE7DB91B723F128F1D3&thid=OIP.sNQ-JuRyaEWorqPyrLxmMQHaEK&mediaurl=https%3a%2f%2famalgjose.files.wordpress.com%2f2021%2f02%2ffast_api_ppt.png&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.b0d43e26e4726845a8aea3f2acbc6631%3frik%3d0%252fEo8SO3kdvnXw%26pid%3dImgRaw%26r%3d0&exph=720&expw=1280&q=fastapi&simid=607986268060862822&FORM=IRPRST&ck=A704608081331589ABB1F8F82AC39324&selectedIndex=3)
+![image](https://github.com/Norkplim22/Embedding-ML-Model-into-a-Web-App/assets/106244819/dec74326-4d95-429b-b29c-88eb01496d24)
 
 [![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 [![MIT licensed](https://img.shields.io/badge/license-mit-blue?style=for-the-badge&logo=appveyor)](./LICENSE)
@@ -42,15 +42,14 @@ You need [`Python3`](https://www.python.org/) on your system to setup this app. 
 
 
 ## Modelling
-!['ML Framework'](D:\LP6\Embedding-ML-Model-into-a-Web-App\images\Modelling.png) 
-
-!['Metrics trimed data']
-(D:\LP6\Embedding-ML-Model-into-a-Web-App\images\metric without outliers.jpg)
-![Metrics untrimmed data](D:\LP6\Embedding-ML-Model-into-a-Web-App\images\metric, with outlier.jpg)
+![image](https://github.com/Norkplim22/Embedding-ML-Model-into-a-Web-App/assets/106244819/30187632-d39b-4779-983f-cfd1c19b6a01) 
+![image](https://github.com/Norkplim22/Embedding-ML-Model-into-a-Web-App/assets/106244819/a11e9ab1-dec4-4940-b8fd-0121d9d54fe9)
+![image](https://github.com/Norkplim22/Embedding-ML-Model-into-a-Web-App/assets/106244819/638ca031-01d7-49c0-b208-0afb0e940d72)
 
 ```
 ## Deployment 
-
+![image](https://github.com/Norkplim22/Embedding-ML-Model-into-a-Web-App/assets/106244819/eec68426-15c1-461a-9033-4876431f4b8e)
+![image](https://github.com/Norkplim22/Embedding-ML-Model-into-a-Web-App/assets/106244819/2a532965-d20d-48dd-b47c-f1c120186efc)
 
 ## Resources
 
