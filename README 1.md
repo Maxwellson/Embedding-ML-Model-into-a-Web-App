@@ -1,5 +1,5 @@
 # Embedding-ML-Model-into-a-Web-App
-!['image'](https://www.bing.com/images/search?view=detailV2&ccid=sNQ%2bJuRy&id=E20302212CAD7FA53ED15FE7DB91B723F128F1D3&thid=OIP.sNQ-JuRyaEWorqPyrLxmMQHaEK&mediaurl=https%3a%2f%2famalgjose.files.wordpress.com%2f2021%2f02%2ffast_api_ppt.png&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.b0d43e26e4726845a8aea3f2acbc6631%3frik%3d0%252fEo8SO3kdvnXw%26pid%3dImgRaw%26r%3d0&exph=720&expw=1280&q=fastapi&simid=607986268060862822&FORM=IRPRST&ck=A704608081331589ABB1F8F82AC39324&selectedIndex=3)
+!['image'](D:\LP6\Embedding-ML-Model-into-a-Web-App\images\fast.jpg)
 
 [![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 [![MIT licensed](https://img.shields.io/badge/license-mit-blue?style=for-the-badge&logo=appveyor)](./LICENSE)
@@ -46,24 +46,32 @@ You need [`Python3`](https://www.python.org/) on your system to setup this app. 
 
 !['Metrics trimed data']
 (D:\LP6\Embedding-ML-Model-into-a-Web-App\images\metric without outliers.jpg)
-![Metrics untrimmed data](D:\LP6\Embedding-ML-Model-into-a-Web-App\images\metric, with outlier.jpg)
 
-```
-## Deployment 
+!['(D:\LP6\Embedding-ML-Model-into-a-Web-App\images\metric, with outlier.jpg)
+
+## Deployment on huggingface
+!['API'](D:\LP6\Embedding-ML-Model-into-a-Web-App\images\fastapi1.jpg)
+
+!['API'](D:\LP6\Embedding-ML-Model-into-a-Web-App\images\fastapi2.jpg)
 
 
 ## Resources
 
 Here are some resources you could explore to get a good understanding of FastAPI :
-https://medium.com/themlblog/splitting-csv-into-train-and-test-data-1407a063dd74 
-https://towardsdatascience.com/multi-class-text-classification-model-comparison-and-selection-5eb066197568 
-https://medium.com/@robert.salgado/multiclass-text-classification-from-start-to-finish-f616a8642538
-https://www.analyticsvidhya.com/blog/2018/04/a-comprehensive-guide-to-understand-and-implement-text-classification-in-python/
-https://www.districtdatalabs.com/text-analytics-with-yellowbrick
-[FastAPI for Machine Learning: Live coding an ML web application](https://www.youtube.com/watch?v=_BZGtifh_gw)
-- [Video - Deploy ML models with FastAPI, Docker, and Heroku ](https://www.youtube.com/watch?v=h5wLuVDr0oc)
-- [FastAPI Tutorial Series](https://www.youtube.com/watch?v=tKL6wEqbyNs&list=PLShTCj6cbon9gK9AbDSxZbas1F6b6C_Mx)
-- [Http status codes](https://www.linkedin.com/feed/update/urn:li:activity:7017027658400063488?utm_source=share&utm_medium=member_desktop)
+1. https://medium.com/themlblog/splitting-csv-into-train-and-test-data-1407a063dd74 
+2. https://towardsdatascience.com/multi-class-text-classification-model-comparison-and-selection-5eb066197568 
+3. https://medium.com/@robert.salgado/multiclass-text-classification-from-start-to-finish-f616a8642538
+4. https://www.analyticsvidhya.com/blog/2018/04/a-comprehensive-guide-to-understand-and-implement-text-classification-in-python/
+5. https://www.districtdatalabs.com/text-analytics-with-yellowbrick
+6. [FastAPI for Machine Learning: Live coding an ML web application](https://www.youtube.com/watch?v=_BZGtifh_gw)
+7. [Video - Deploy ML models with FastAPI, Docker, and Heroku ](https://www.youtube.com/watch?v=h5wLuVDr0oc)
+8. [FastAPI Tutorial Series](https://www.youtube.com/watch?v=tKL6wEqbyNs&list=PLShTCj6cbon9gK9AbDSxZbas1F6b6C_Mx)
+9. [Http status codes](https://www.linkedin.com/feed/update/urn:li:activity:7017027658400063488?utm_source=share&utm_medium=member_desktop)
+
+## Article and app
+https://medium.com/@cnorkplim/am-i-vulnerable-to-sepsis-a-data-analyst-perspective-4d31d8a9373c
+
+https://huggingface.co/spaces/lindaclara22/Sepssis
 
 ## Author
 Linda Adzigbli
