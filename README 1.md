@@ -52,7 +52,7 @@ You need [`Python3`](https://www.python.org/) on your system to setup this app. 
 
 ![image](https://github.com/Norkplim22/Embedding-ML-Model-into-a-Web-App/assets/106244819/638ca031-01d7-49c0-b208-0afb0e940d72)
 
-```
+
 ## Deployment 
 ![image](https://github.com/Norkplim22/Embedding-ML-Model-into-a-Web-App/assets/106244819/eec68426-15c1-461a-9033-4876431f4b8e)
 
