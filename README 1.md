@@ -1,5 +1,9 @@
 # Embedding-ML-Model-into-a-Web-App
+<<<<<<< HEAD:README 1.md
 !['image'](D:\LP6\Embedding-ML-Model-into-a-Web-App\images\fast.jpg)
+=======
+![image](https://github.com/Norkplim22/Embedding-ML-Model-into-a-Web-App/assets/106244819/dec74326-4d95-429b-b29c-88eb01496d24)
+>>>>>>> 630502a07e2ad61a8b1834336784d99ff9d50707:README.md
 
 [![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 [![MIT licensed](https://img.shields.io/badge/license-mit-blue?style=for-the-badge&logo=appveyor)](./LICENSE)
@@ -42,18 +46,17 @@ You need [`Python3`](https://www.python.org/) on your system to setup this app. 
 
 
 ## Modelling
-!['ML Framework'](D:\LP6\Embedding-ML-Model-into-a-Web-App\images\Modelling.png) 
+![image](https://github.com/Norkplim22/Embedding-ML-Model-into-a-Web-App/assets/106244819/30187632-d39b-4779-983f-cfd1c19b6a01) 
 
-!['Metrics trimed data']
-(D:\LP6\Embedding-ML-Model-into-a-Web-App\images\metric without outliers.jpg)
+![image](https://github.com/Norkplim22/Embedding-ML-Model-into-a-Web-App/assets/106244819/a11e9ab1-dec4-4940-b8fd-0121d9d54fe9)
 
-!['(D:\LP6\Embedding-ML-Model-into-a-Web-App\images\metric, with outlier.jpg)
+![image](https://github.com/Norkplim22/Embedding-ML-Model-into-a-Web-App/assets/106244819/638ca031-01d7-49c0-b208-0afb0e940d72)
 
-## Deployment on huggingface
-!['API'](D:\LP6\Embedding-ML-Model-into-a-Web-App\images\fastapi1.jpg)
+```
+## Deployment 
+![image](https://github.com/Norkplim22/Embedding-ML-Model-into-a-Web-App/assets/106244819/eec68426-15c1-461a-9033-4876431f4b8e)
 
-!['API'](D:\LP6\Embedding-ML-Model-into-a-Web-App\images\fastapi2.jpg)
-
+![image](https://github.com/Norkplim22/Embedding-ML-Model-into-a-Web-App/assets/106244819/2a532965-d20d-48dd-b47c-f1c120186efc)
 
 ## Resources
 
