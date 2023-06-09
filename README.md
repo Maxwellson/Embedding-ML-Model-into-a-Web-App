@@ -66,7 +66,7 @@ You need [`Python3`](https://www.python.org/) on your system to setup this app. 
     </tr>
 </table>
 
-7 directories, 4 files
+
 ```
 ## Screenshots
 
