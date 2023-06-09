@@ -42,11 +42,11 @@ You need [`Python3`](https://www.python.org/) on your system to setup this app. 
 
 
 ## Modelling
-['ML Framework'](D:\LP6\Embedding-ML-Model-into-a-Web-App\images\Modelling.png) 
+!['ML Framework'](D:\LP6\Embedding-ML-Model-into-a-Web-App\images\Modelling.png) 
 
-['Metrics trimed data']
+!['Metrics trimed data']
 (D:\LP6\Embedding-ML-Model-into-a-Web-App\images\metric without outliers.jpg)
-[Metrics untrimmed data](D:\LP6\Embedding-ML-Model-into-a-Web-App\images\metric, with outlier.jpg)
+![Metrics untrimmed data](D:\LP6\Embedding-ML-Model-into-a-Web-App\images\metric, with outlier.jpg)
 
 ```
 ## Deployment 
