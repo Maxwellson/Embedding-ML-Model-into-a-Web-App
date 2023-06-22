@@ -4,7 +4,7 @@
 [![MIT licensed](https://img.shields.io/badge/license-mit-blue?style=for-the-badge&logo=appveyor)](./LICENSE)
 [![Open Source Love png1](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
-![image](https://github.com/Norkplim22/Embedding-ML-Model-into-a-Web-App/assets/106244819/dec74326-4d95-429b-b29c-88eb01496d24)
+
 
 # Introduction
 
@@ -29,7 +29,7 @@ The directory contains app sub directories and a dataset for Sepsis :
 
 To set up the project environment, follow these steps:
 
-You need [`Python3`](https://www.python.org/) on your system to setup this app. Then you can clone this repo ['FastAPI'](https://github.com/Norkplim22/Embedding-ML-Model-into-a-Web-App.git) and follow the steps below:
+You need [`Python3`](https://www.python.org/) on your system to setup this app.
 
 - Windows:
         
