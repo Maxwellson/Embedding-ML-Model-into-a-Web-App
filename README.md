@@ -66,10 +66,4 @@ Here are some resources you could explore to get a good understanding of FastAPI
 8. [FastAPI Tutorial Series](https://www.youtube.com/watch?v=tKL6wEqbyNs&list=PLShTCj6cbon9gK9AbDSxZbas1F6b6C_Mx)
 9. [Http status codes](https://www.linkedin.com/feed/update/urn:li:activity:7017027658400063488?utm_source=share&utm_medium=member_desktop)
 
-# Article and deployed app
-https://medium.com/@cnorkplim/am-i-vulnerable-to-sepsis-a-data-analyst-perspective-4d31d8a9373c
 
-https://huggingface.co/spaces/lindaclara22/Sepssis
-
-# Author
-Linda Adzigbli
